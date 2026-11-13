@@ -1,0 +1,6 @@
+{
+  "name": "SENA - Plan de Acción y Diagnóstico Estratégico Empresarial",
+  "description": "Herramienta interactiva SENA para formulación de planes de acción empresarial, diagnóstico interno (PCI, MEFI), externo (PESTEL, MEFE), DOFA cruzada y análisis inteligente con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
